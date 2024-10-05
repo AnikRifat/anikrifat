@@ -1,97 +1,75 @@
-# 👋 Hi there, I'm Anik! 
+# 👋 Welcome to My GitHub Profile!
 
-🚀 **Software Engineer** | 💻 **Full-Stack Developer** | 🎨 **Tech Enthusiast**
-
----
-
-### 🌟 About Me
-
-I am a Software Engineer with a passion for building scalable, high-quality software solutions. With extensive experience in backend and full-stack web development, I specialize in PHP (Laravel 7-11), JavaScript, and modern web technologies. My journey has taken me through the development of various SaaS platforms, event management systems, subscription services, and e-commerce applications. 
-
-I love creating efficient systems with microservices, cloud deployments (AWS, DigitalOcean, GCP), and setting up CI/CD pipelines for smooth and reliable deployments. Besides coding, I'm always eager to learn new technologies and dig deeper into challenging problems.
+## 🌟 I am a Full Stack Developer!
 
 ---
 
-### 🛠️ My Skill Set
-
-**Major Skills**:
-- PHP & Laravel (7 - 11)
-- JavaScript
-- SQL (MySQL, PostgreSQL)
-- NoSQL (MongoDB)
-- Microservices
-- Docker
-- AWS / DigitalOcean / GCP
-- CI/CD (Jenkins)
-- RabbitMQ & Kafka
-- API Gateway (Kong, AWS)
-- Payment Gateway Integration (PayPal, Stripe, SSLCommerz)
-
-**Partial Skills**:
-- CodeIgniter, React.js, Node.js, gRPC, MERN Stack
-- Server & VPS Management, Payment Integration
-
-**Extra Supporting Skills**:
-- Adobe Photoshop, Adobe Illustrator, Microsoft Office
-- Server & cPanel Management, VPS Deployment
-- Accounting Integration, Custom Web/Domain Management
+### 📞 Contact Information
+- **Phone:** +8801643675060
+- **Email:** [reafatul@gmail.com](mailto:reafatul@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/-Anik%20Rifat-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/anikrifat/)](https://linkedin.com/in/anikrifat/)
 
 ---
 
-### 💼 Professional Experience
+### 🛠️ My Skills
 
-**Software Engineer** @ 6amTech (Dec 2023 - Present)  
-- Working on microservices, containerization with Docker, and managing CI/CD pipelines.
+#### Major Skills:
+<p align="left">
+    <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50" /> </a>
+    <a href="https://laravel.com/" target="_blank"> <img src="https://laravel.com/img/logotype.min.svg" alt="laravel" width="50" height="50" /> </a>
+    <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" /> </a>
+    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" /> </a>
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" /> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" /> </a>
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" /> </a>
+    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50" /> </a>
+    <a href="https://www.digitalocean.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original-wordmark.svg" alt="digitalocean" width="50" height="50" /> </a>
+    <a href="https://kafka.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" width="50" height="50" /> </a>
+    <a href="https://rabbitmq.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" alt="rabbitmq" width="50" height="50" /> </a>
+</p>
 
-**Full-Stack Web Developer** (Freelancer) (Jul 2022 - Nov 2023)  
-- Delivered multiple client projects in event management and subscription-based platforms.
-
-**Full-Stack Web Developer (Laravel)** @ Spinner Tech (Mar 2020 - Jun 2022)  
-- Developed and maintained complex SaaS projects using Laravel and modern technologies.
-
----
-
-### 🚀 Projects
-
-**Menumium - Restaurant Management System (SaaS)**  
-Role: Backend Developer | Support DevOps Engineer  
-- Developed backend microservices and managed containerization and CI/CD pipelines.
-- Improved system performance and reduced deployment downtime.
-
-**BookitUp - Event Ticketing and Appointment Scheduling SaaS**  
-Role: Full-Stack Developer | Server Administrator  
-- Completed and optimized an unfinished project using CodeIgniter.
-- Integrated PayPal, Stripe, and SSLCommerz for seamless payment options.
-
-**BonikBazar - Classified Buy/Sell Platform**  
-Role: Backend Developer  
-- Built a scalable backend using Laravel, optimized for high user volume and efficient transactions.
-
-**WebsitesProfessional - Subscription-Based Platform**  
-Role: Full-Stack Developer | System Administrator  
-- Developed a subscription-based platform using the MERN stack.
-- Managed payments and server optimization for smooth user experience.
+#### Partial Skills:
+<p align="left">
+    <a href="https://codeigniter.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="50" height="50" /> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" /> </a>
+    <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" /> </a>
+    <a href="https://grpc.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-original.svg" alt="gRPC" width="50" height="50" /> </a>
+</p>
 
 ---
 
-### 🌱 What I'm Up To
-
-Currently, I’m focused on learning more about advanced cloud infrastructure, exploring serverless architecture, and diving deeper into React.js for full-stack development.
-
----
-
-### ✨ Fun Facts About Me
-
-- I’m an avid follower of European & American football. 🏈⚽
-- When I'm not coding, you'll find me listening to music or playing badminton. 🎶🏸
-- I love exploring new technologies and digging deeper into any topic that piques my curiosity.
+### 👨🏻‍💻 About Me
+I am a dedicated Full Stack Developer with a passion for creating dynamic web applications and delivering seamless user experiences. I thrive on tackling challenges and collaborating with teams to build innovative solutions.
 
 ---
 
-### 📫 Let's Connect
+### 💼 Career Highlights
+- Full Stack Developer with proven expertise in web applications using **PHP**, **Laravel**, and **JavaScript**.
+- Skilled in **microservices architecture** and **DevOps practices**, focusing on **CI/CD** for efficient deployments.
+- Experience in **SaaS application development**, enhancing user experience through optimized workflows and payment integrations.
+- Strong backend development skills with **Laravel** and **CodeIgniter**, ensuring robust API and database management.
+- Proficient in cloud services (**AWS**, **DigitalOcean**) for infrastructure management and application lifecycle optimization.
+- Committed to continuous learning and professional development through meetups and networking.
 
-- **GitHub**: [AnikRifat](https://github.com/AnikRifat)
-- **LinkedIn**: [Add your LinkedIn link here]
-- **Email**: reafatul@gmail.com
+---
 
-Feel free to reach out if you have an exciting project, need a team player, or just want to talk tech! 🚀
+### 💻 Projects
+| **Project**                 | **Description**                             | **Technologies**                  |
+|-----------------------------|---------------------------------------------|-----------------------------------|
+| **Menumium**                | Restaurant Management System (SaaS)        | PHP, Laravel, PostgreSQL, Docker  |
+| **BookitUp**                | Event Ticketing and Appointment Scheduling  | CodeIgniter, MySQL, Payment Integration |
+| **BonikBazar**              | Classified Buy/Sell Platform                | Laravel, MySQL, REST API          |
+| **WebsitesProfessional**     | Subscription-Based Platform                 | MERN Stack, Payment Integration    |
+
+---
+
+### 📊 GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&theme=radical&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+
+---
+
+### 🚀 Thank You for Visiting My Profile!
+Feel free to explore my projects and reach out for collaboration or discussions! 👋
