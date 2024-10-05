@@ -63,13 +63,6 @@ I am a dedicated Full Stack Developer with a passion for creating dynamic web ap
 
 ---
 
-### 📊 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&theme=radical&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-
----
 
 ### 🚀 Thank You for Visiting My Profile!
 Feel free to explore my projects and reach out for collaboration or discussions! 👋
