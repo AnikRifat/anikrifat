@@ -1,63 +1,48 @@
-# 👨‍💻 Anik Rifat | Solutions Architect
+# Anik Rifat — Co-founder & CTO, ShopLagbe
 
-**E-Commerce & On-Demand Systems Engineering** *Specializing in high-concurrency Laravel ecosystems, Microservices, and DevOps.*
+**Backend & SaaS engineer** · Laravel · Next.js · PostgreSQL · Docker
 
----
-
-### 🚀 Professional Summary
-
-I architect high-performance digital infrastructure for businesses where scale is a requirement. My expertise lies at the intersection of complex backend logic and resilient infrastructure. I specialize in solving the "hard problems"—concurrency safety, spatial logic, and multi-tenant isolation.
-
-With a **DevOps-first philosophy**, I bridge the gap between code and deployment, leveraging **Laravel Octane, FrankenPHP, and Kubernetes** to build systems that survive seasonal spikes and rapid global growth.
+I build multi-tenant SaaS, e-commerce and logistics platforms for growing businesses, and I run what I build in production. 6+ years with Laravel/PHP; I care most about the hard parts: tenant isolation, payment correctness, order lifecycles and accounting that adds up.
 
 ---
 
-### 🛠 Technical Arsenal
+### Tech
 
 | Layer | Technologies |
 | :--- | :--- |
-| **Backend** | PHP 8.4+, Laravel 12 (Modular Monoliths & Microservices), Octane, FrankenPHP |
-| **Data & Real-time** | PostgreSQL (PostGIS), Redis, RabbitMQ, WebSockets, Pusher |
-| **Infrastructure** | Docker, Kubernetes, Jenkins, GitHub Actions, Linux (Nginx/Unit) |
-| **Frontend/Tools** | Next.js, React, Tailwind CSS, Sentry, AI-Assisted Workflows |
+| **Backend** | PHP 8.4, Laravel 13, Livewire 3, Octane / FrankenPHP |
+| **Frontend** | Next.js, React, TypeScript, Tailwind CSS |
+| **Data & messaging** | PostgreSQL (row-level security), MySQL, Redis, RabbitMQ, Kafka |
+| **Payments** | SSLCommerz, bKash, Stripe, PayPal — signed, idempotent webhooks |
+| **DevOps** | Docker, Jenkins, GitHub Actions, Nginx, Linux, DigitalOcean, AWS |
+| **Quality** | PHPUnit, Larastan, Deptrac, Sentry |
 
 ---
 
-### 🏗 Featured Projects
+### Featured work
 
-#### 🛒 MartCMS — Multi-Module Enterprise Marketplace
-*A high-concurrency engine supporting 8 business verticals (Ride-Share, Pharmacy, Grocery, etc.).*
-* **Engineering:** Built zone-based geospatial logic and atomic inventory systems.
-* **Performance:** Leveraged Laravel Octane for sub-millisecond API responsiveness.
-* **Scalability:** Multi-tenant architecture with independent vendor subscription tiers.
+**ShopLagbe — multi-tenant e-commerce SaaS** (co-founder, sole architect)
+- Domain-modular Laravel monolith; module boundaries enforced in CI with Deptrac, Larastan at max level.
+- Row-level multi-tenancy on PostgreSQL RLS; double-entry, append-only accounting ledger.
+- SSLCommerz and bKash with signature verification and idempotent webhooks; plan gating with Laravel Pennant.
 
-#### 🚢 Sawdah Express — Cross-Border B2B Import Engine
-*Connecting 10K+ importers to Chinese suppliers (1688) with real-time synchronization.*
-* **Integration:** Deep-level API orchestration for SKU mapping and tiered pricing.
-* **Consistency:** Designed a 10-stage order lifecycle with timestamped audit trails.
-* **Fintech:** Automated CNY→BDT conversion and dual-JWT authentication.
+**Sawdah Express — China-to-Bangladesh B2B import platform**
+- Serves 10,000+ customers; 1688 supplier API sync for products, SKU variants and tiered pricing.
+- 10-stage order lifecycle with audit trails; atomic four-level order hierarchy; CNY→BDT conversion.
 
-#### 🍳 Menumium — Restaurant Management SaaS
-*Microservice-based platform for multi-branch ghost kitchens and POS systems.*
-* **Orchestration:** Decoupled core services via RabbitMQ to ensure 99.9% uptime.
-* **DevOps:** Full CI/CD automation and Linux server hardening for secure transactions.
+**MartCMS & 6amERP — at 6amTech**
+- Multi-vendor CMS across 8 business modules with zone-based spatial operations and rider tracking.
+- Modular ERP: HRM, CRM and support-ticket modules with RBAC and 2FA.
 
----
+**Menumium — restaurant management SaaS (at 6amTech)**
+- Backend services with RabbitMQ/Kafka messaging, Kong API gateway, Redis caching, Docker and Jenkins CI/CD.
 
-### 🧪 Engineering Dynamism & Philosophy
-
-* **Clean Code & Legacy Refactoring:** Transforming technical debt into evolvable systems (e.g., *BookItUp* modernization).
-* **Domain-Driven Design (DDD):** Aligning technical architecture with complex business domains.
-* **Event-Driven Architecture:** Decoupling systems for better maintainability and scale.
+**Open source here:** [full-stack-boilerplate](https://github.com/AnikRifat/full-stack-boilerplate) · [accounting](https://github.com/AnikRifat/accounting)
 
 ---
 
-### 🌐 Connect With Me
+### Connect
 
-* **LinkedIn:** [linkedin.com/in/anikrifat](https://linkedin.com/in/anikrifat)
-* **Email:** [reafatul@gmail.com](mailto:reafatul@gmail.com)
-* **WhatsApp:** [+880 1643 675060](https://wa.me/8801643675060)
-* **Portfolio:** [github.com/AnikRifat](https://github.com/AnikRifat)
-
----
-*“I don’t just write code; I build the engines that power business growth.”*
+- LinkedIn: [linkedin.com/in/anikrifat](https://linkedin.com/in/anikrifat)
+- Email: [reafatul@gmail.com](mailto:reafatul@gmail.com)
+- WhatsApp: [+880 1643 675060](https://wa.me/8801643675060)
